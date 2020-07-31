@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">TextUtilities</string>
+    <string name="textview">TextView</string>
+    <string name="function1">Function1</string>
+    <string name="description">Description</string>
+    <string name="func">Func</string>
+    <string name="write_text_to_revers">write text to revers</string>
+    <string name="button">Button</string>
+    <string name="reverse">Reverse</string>
+    <string name="write_something_and_it_will_be_reversed">write something and it will be reversed</string>
+    <string-array name="functions">
+        <item>reverse text</item>
+        <item>placeholder</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>write something and it will be reversed</item>
+        <item>placeholder</item>
+    </string-array>
+
 </resources>
