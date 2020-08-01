@@ -8,13 +8,16 @@
     <string name="button">Button</string>
     <string name="reverse">Reverse</string>
     <string name="write_something_and_it_will_be_reversed">write something and it will be reversed</string>
+    <string name="swap">swap</string>
+    <string name="clear">clear</string>
+    <string name="english">english</string>
     <string-array name="functions">
         <item>reverse text</item>
-        <item>placeholder</item>
+        <item>swap</item>
     </string-array>
     <string-array name="descriptions">
         <item>write something and it will be reversed</item>
-        <item>placeholder</item>
+        <item>take hebrew \ english letters and exchange them with their qwerty equivalent</item>
     </string-array>
 
 </resources>

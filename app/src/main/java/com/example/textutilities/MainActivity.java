@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(showDetailActivity);
                         break;
                     case HEBREW_ENGLISH_JIBRISH:
+                        Intent  showDetailActivity1 = new Intent(getApplicationContext(),HebrewEnglish.class);
+                        startActivity(showDetailActivity1);
                         break;
                 }
 
